@@ -48,8 +48,8 @@ function greetUser(name) {
 }
 
 console.log(greetUser("UX Designer"));
+```
 
----
 
 ## Dokumentacija
 
