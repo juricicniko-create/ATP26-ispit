@@ -50,9 +50,32 @@ function greetUser(name) {
 console.log(greetUser("UX Designer"));
 ```
 
+---
 
 ## Dokumentacija
 
 - [Licenca](LICENSE.md)
 - [Changelog](CHANGELOG.md)
 
+---
+
+## 🎥 UX Design Video
+
+[![UX Design Explained](https://img.youtube.com/vi/Ovj4hFxko7c/0.jpg)](https://www.youtube.com/watch?v=Ovj4hFxko7c)
+
+*Kratki video koji objašnjava osnove User Experience (UX) Designa.*
+
+---
+
+## ✨ Ključne značajke projekta
+
+- :art: Fokus na **User Experience Design**
+- :bulb: Jasna i jednostavna rješenja
+- :rocket: Spremno za objavu na GitHub Pages
+- :memo: Detaljna dokumentacija
+
+---
+
+> **Napomena:**  
+> Ovaj projekt je edukativne prirode i služi za demonstraciju  
+> osnovnih principa **User Experience Designa** i GitHub Pages-a.
