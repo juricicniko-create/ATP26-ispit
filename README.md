@@ -48,3 +48,11 @@ function greetUser(name) {
 }
 
 console.log(greetUser("UX Designer"));
+
+---
+
+## Dokumentacija
+
+- [Licenca](LICENSE.md)
+- [Changelog](CHANGELOG.md)
+
