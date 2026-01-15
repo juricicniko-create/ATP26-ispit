@@ -1,0 +1,5 @@
+git status
+git add .
+git commit -m "Dodana dokumentacija i GitHub Pages"
+
+
